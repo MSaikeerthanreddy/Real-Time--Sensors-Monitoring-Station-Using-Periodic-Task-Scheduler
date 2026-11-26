@@ -1,4 +1,4 @@
-# Real-Time--Sensors-Monitoring-Station-Using-Periodic-Task-Scheduler
+# Real-Time-Sensors-Monitoring-Station-Using-Periodic-Task-Scheduler
 ## Project Overview
 The Real-Time Sensors Monitoring Station Using Periodic Task Scheduler is an embedded systems project developed using the LPC2129 ARM7 microcontroller.
 
